@@ -1,0 +1,36 @@
+.imagem {
+  height: 360px;
+  display: block;
+}
+
+.container {
+  width: 280px;
+}
+
+.container button {
+  display: flex;
+  margin: 10px auto;
+}
+
+button {
+  margin: 10px 10px 0 0;
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: none;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #eee;
+}
+
+.btn1 {
+  background: #ffc400;
+  color: #000;
+}
+
+.btn2 {
+  background: #554e4e;
+}
+
+.btn3 {
+  background-color: #e24800;
+}
